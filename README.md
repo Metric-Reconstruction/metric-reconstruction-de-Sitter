@@ -1,5 +1,5 @@
 [![arXiv number here](IMG link here)](arXiv link here) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Metric-Reconstruction/metric-reconstruction-de-Sitter/blob/main/LICENSE)
-# Gravitational Waves on Kerr Black Holes II#
+# Gravitational Waves on Kerr Black Holes II #
 
 A suite of Mathematica notebooks containing analytic expressions for the metric perturbations of a Kerr–(anti-)de Sitter black hole.
 
