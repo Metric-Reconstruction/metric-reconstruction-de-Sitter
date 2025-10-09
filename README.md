@@ -23,5 +23,5 @@ _______
 This notebook showcases how the explicit expressions from `deSitterMetricPerturbations.nb` can be used for symbolic or numeric computations. As an example, we display plots of metric perturbation components.
 
 ______________
-R. Berens, T. Gravely, and A. Lupsasca, “Gravitational Waves on Kerr Black Holes I: Reconstruction of Linearized Metric Perturbations,” 2024. [arXiv number here](arXiv link here)
+R. Berens, T. Gravely, and A. Lupsasca, “Gravitational Waves on Kerr Black Holes II: Metric Reconstruction with Cosmological Constant,” 2025. [arXiv number here](arXiv link here)
 ______________
