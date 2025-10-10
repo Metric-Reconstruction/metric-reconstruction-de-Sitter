@@ -1,4 +1,3 @@
-[![arXiv number here](IMG link here)](arXiv link here) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Metric-Reconstruction/metric-reconstruction-de-Sitter/blob/main/LICENSE)
 [![2510.07712](https://img.shields.io/badge/arXiv-2510.07712-b31b1b.svg)](https://arxiv.org/abs/2510.07712) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Metric-Reconstruction/metric-reconstruction-de-Sitter/blob/main/LICENSE)
 # Gravitational Waves on Kerr Black Holes II #
 
